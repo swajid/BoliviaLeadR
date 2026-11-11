@@ -103,3 +103,4 @@ Because websites change, the package uses:
 <!-- * -->
 <!-- i am counting on this, hoping it is what i think it is & can be -->
 <!-- p.[Leu1del;Asp4Thr] -->
+<!-- GT=0/1 | AD=50,50 | VAF=0.50 -->
